@@ -1,0 +1,2 @@
+port_no: "8080"
+document_root: "/var/www/web"
